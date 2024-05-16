@@ -24,3 +24,5 @@ This project is a simple login and registration form built using HTML5, CSS, and
 * bootstrap
 * CSS
 * JavaScript 
+
+[preview👇](https://raghav1124.github.io/LOGIN-AND-REGISTRATION-FORM/)
