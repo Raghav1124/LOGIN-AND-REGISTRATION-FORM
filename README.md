@@ -1,5 +1,5 @@
 
-#Login Registration Form
+ # Login Registration Form
 
 This project is a simple login and registration form built using HTML5, CSS, and JavaScript. It allows users to register for an account with a username, email, and password, and then login using their email and password.
 
