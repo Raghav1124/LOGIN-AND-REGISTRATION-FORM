@@ -18,7 +18,7 @@ This project is a simple login and registration form built using HTML5, CSS, and
 * This is a frontend-only project. It does not include any server-side functionality for user authentication or data storage.
 * It does not include any server-side functionality for user authentication or data storage.
 
-##xTechnologies Used:
+## Technologies Used:
 
 * HTML5
 * bootstrap
